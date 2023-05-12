@@ -2,4 +2,4 @@ this is first file in cloned project
 Adding this line for the second commit
 Adding this line from original file in local
 Adding this line from remote
-
+Adding this line to check remote commit 2
